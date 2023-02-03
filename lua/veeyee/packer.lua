@@ -72,4 +72,9 @@ use {
   requires = { 'kyazdani42/nvim-web-devicons', opt = true }
 }
 
+use {
+    'prettier/vim-prettier',
+    run = 'yarn install'
+}
+
 end)
