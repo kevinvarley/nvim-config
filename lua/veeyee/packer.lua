@@ -77,4 +77,7 @@ use {
     run = 'yarn install'
 }
 
+use 'sbdchd/neoformat'
+
+
 end)
